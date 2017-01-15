@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,UK | PremierSport
-http://167.114.102.27/live/16AZR8vvrvgqVYJ8AZHwLQ/1483914349/ce425ca32dea0f37b22717ae989bcffb.m3u8
-#EXTINF:-1,UK | SetantaSport
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1075.ts
+
+#EXTINF:-1,UK | SEC NETWORK
+http://content-auso1.uplynk.com/channel/2a81d9f8988d438bbbe298bfd1e86eb7/g.m3u8?ad.kv=_fw_ae,null,_fw_euid,66D00C84-4811-45DD-90A4-9E838830D363&exp=1484501112&ptid=SEC_LINEAR_VDMS&rn=974465892&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=secnetwork&ad.csid=watchespn:desktop:secnetwork&ad.caid=a19422709&eid=espn_sec_30fps&euid=SEC_VDMS&ct=c&sig=e12f604bc72d2777f75d71b631baf30d21557c66dacd7b14b891425f64cc96c7&pbs=49f91870c26047649004b4e00fc54b44
+
 #EXTINF:-1,UK | Setanta
 http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1076.ts
 #EXTINF:-1,UK | BTSportESPN
